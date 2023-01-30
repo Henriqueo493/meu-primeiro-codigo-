@@ -1,0 +1,19 @@
+void main (){ 
+  int m = 4;
+  int w = 2;
+  int resultado = m + w;
+  print (resultado);
+
+int s = 2;
+int z = 1;
+int subtracao =m - w ;
+print(subtracao);
+ 
+int multiplicacao =m*w ;
+print(multiplicacao);
+
+
+double divisao=m/w;
+print(divisao);
+
+}
